@@ -1,0 +1,5 @@
+websocket-client
+kafka-python
+pyspark
+duckdb
+pandas 
